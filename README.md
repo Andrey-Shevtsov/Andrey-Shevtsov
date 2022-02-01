@@ -10,4 +10,4 @@ Currently I'm working on small enterprise chat-bots for telegram
 
 __Feel free to contact me:__
 
-[dev-shevtsov@pm.me]
+dev-shevtsov@pm.me
