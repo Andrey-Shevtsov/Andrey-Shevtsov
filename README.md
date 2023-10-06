@@ -1,14 +1,14 @@
 # 💫 About Me:
-###Hi there!
-##My name is Andrey Shevtsov
-I'm a Java developer from Kazakhstan. Earlier I've studied physics in National Research Nuclear University "MEPHI" in Moscow, but unfortunately I had to leave my studies because of family problems. Right now I am:
-🔭 working on ZKTeco software integration with Telegram messenger
-🌱 learning Apache Kafka, Akka, NoSQL, Spring Framework.
-My main programming language is Java and most of my projects are written in Java. You can check my projects that I've completed or which are still in progress.
+Hi there!
+<br><br>My name is Andrey Shevtsov
+<br><br>I'm a Java developer from Kazakhstan. Earlier I've studied physics in National Research Nuclear University "MEPHI" in Moscow, but unfortunately I had to leave my studies because of family problems. Right now I am:
+<br>🔭 working on ZKTeco software integration with Telegram messenger
+<br>🌱 learning Apache Kafka, Akka, NoSQL, Spring Framework.
+<br>My main programming language is Java and most of my projects are written in Java. You can check my projects that I've completed or which are still in progress.
 
-Feel free to caontact me:
+<br>Feel free to caontact me:
 
-dev-shevtsov@pm.me
+<br>dev-shevtsov@pm.me
 
 
 # 💻 Tech Stack:
